@@ -1,0 +1,13 @@
+{
+  "p": 3,
+  "d": 0,
+  "q": 2,
+  "P": 0,
+  "D": 0,
+  "m": 7,
+  "Q": 0,
+  "trend": "n",
+  "EXOG_ON": 0,
+  "enforce_stationarity": true,
+  "enforce_invertibility": true
+}
